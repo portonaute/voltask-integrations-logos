@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64" width="64" height="64">
-  <defs>
-    <linearGradient id="a" x1="237.109" x2="419.106" y1="223.219" y2="146.89" gradientTransform="matrix(1 0 0 -1 0 513)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#249361"/><stop offset="1" stop-color="#3ecf8e"/></linearGradient>
-    <linearGradient id="b" x1="245.829" x2="328.829" y1="411.681" y2="255.438" gradientTransform="matrix(1 0 0 -1 0 513)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#000"/><stop offset="1" stop-color="#000" stop-opacity="0"/></linearGradient>
-  </defs>
-  <rect width="64" height="64" rx="14" fill="#FFFFFF"/>
-  <g transform="translate(10, 10) scale(0.085938)">
-<path d="M297.6 501c-12.9 16.3-39.2 7.4-39.5-13.4L253.6 183h204.8c37.1 0 57.8 42.8 34.7 71.9z" fill="url(#a)"/><path d="M297.6 501c-12.9 16.3-39.2 7.4-39.5-13.4L253.6 183h204.8c37.1 0 57.8 42.8 34.7 71.9z" fill="url(#b)" fill-opacity=".2"/><path d="M214.4 11c12.9-16.3 39.2-7.4 39.5 13.4l2 304.5H53.7c-37.1 0-57.8-42.8-34.7-71.9z" fill="#3ecf8e"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 512 512"><linearGradient id="supabase_svg__a" x1="236.876" x2="420.72" y1="545.102" y2="622.206" gradientTransform="translate(0 -255)" gradientUnits="userSpaceOnUse"><stop offset="0" style="stop-color:#249361"/><stop offset="1" style="stop-color:#3ecf8e"/></linearGradient><path d="M298 503.5c-13 16.5-39.6 7.5-39.9-13.5l-4.5-307.7h206.9c37.5 0 58.4 43.2 35.1 72.6z" style="fill:url(#supabase_svg__a)"/><linearGradient id="supabase_svg__b" x1="245.699" x2="329.541" y1="354.736" y2="512.566" gradientTransform="translate(0 -255)" gradientUnits="userSpaceOnUse"><stop offset="0" style="stop-color:#000"/><stop offset="1" style="stop-color:#000;stop-opacity:0"/></linearGradient><path d="M298 503.5c-13 16.5-39.6 7.5-39.9-13.5l-4.5-307.7h206.9c37.5 0 58.4 43.2 35.1 72.6z" style="fill:url(#supabase_svg__b);fill-opacity:.2"/><path d="M213.9 8.5C227-8 253.5 1 253.8 22l2 307.6H51.6c-37.5 0-58.4-43.2-35.1-72.6z" style="fill:#3ecf8e"/></svg>

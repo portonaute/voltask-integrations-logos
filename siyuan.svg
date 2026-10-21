@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
-  <rect width="64" height="64" rx="14" fill="#059669"/>
-  <text x="32" y="39" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">SI</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 512 512"><path d="M0 180.4 145.5 34.9v296.7L0 477.1zm256-34.9L366.5 34.9v296.7L256 442.2z" style="fill:#d23f31"/><path d="M145.5 34.9 256 145.5v296.7L145.5 331.6zm221 0L512 180.4v296.7L366.5 331.6z" style="fill:#3b3e43"/></svg>
