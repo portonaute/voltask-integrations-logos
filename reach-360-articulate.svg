@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="linearGradient3761">
+			<stop offset="0" id="stop3763"  stop-color="#127aee" stop-opacity="1"/>
+			<stop offset="1" id="stop3765"  stop-color="#117aef" stop-opacity="0.25098041"/>
+		</linearGradient>
+		<linearGradient id="linearGradient3753">
+			<stop offset="0" id="stop3755"  stop-color="#10f05e" stop-opacity="0.25098041"/>
+			<stop offset="1" id="stop3757"  stop-color="#10f05e" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient xlink:href="#linearGradient3753" id="linearGradient3759" x1="52"
+			y1="604.36218" x2="972" y2="604.36218" gradientUnits="userSpaceOnUse" />
+		<linearGradient xlink:href="#linearGradient3761" id="linearGradient3767" x1="256" y1="0"
+			x2="231.9866" y2="725.54773" gradientUnits="userSpaceOnUse" gradientTransform="translate(0,28.362168)" />
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#FFFFFF"/>
+  <g transform="translate(10, 10) scale(0.036667)">
+
+	
+	
+	<g id="layer1" transform="translate(0,147.63783)">
+		<g id="g4530" transform="translate(88,-88.000014)">
+			<rect y="28.362167" x="64" height="1024" width="384" id="rect3009"  fill="url(#linearGradient3767)" fill-opacity="1" stroke="none"/>
+			<path id="path3785"
+				d="m 64,860.36217 c 0,-704 896,-704 896,-704 l 0,384 c 0,0 -512,0 -512,320 l 0,192.00003 -384,0 z"  fill="url(#linearGradient3759)" fill-opacity="1" fill-rule="nonzero" stroke="none" stroke-width="24" stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="0.94117647"/>
+		</g>
+	</g>
+  </g>
+</svg>
