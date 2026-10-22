@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
-  <rect width="64" height="64" rx="14" fill="#3B82F6"/>
-  <text x="32" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">FullCalendar</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="12 12 56 56"><path fill="#f1532b" d="M34.5 15H66L63.9 25.5H32.4Z M21.9 25.5H32.4L29.8 38.5H19.3Z M29.8 38.5H46.3L44.2 49H27.7Z M17.2 49H27.7L24.5 65H14Z"/></svg>
